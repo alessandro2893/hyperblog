@@ -9,5 +9,6 @@ En este curso vemos de todo:
 - El verdadero amor por las buenas practicas
 - Trucos muy locos del profesor
 - Las personalidades multiples de Alessandro
+- Creado poor el increible Alessandro
 
 Y como un amable recordatorio **Este Readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá No TE LO TOMES EN SERIO y mejor ve a ver el curso.
